@@ -73,7 +73,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="RisingTechOSS/android_frameworks_av" remote="github" groups="pdk" revision="fourteen" />
-  <project path="frameworks/base" name="RisingTechOSS/android_frameworks_base" remote="github" groups="pdk-cw-fs,pdk-fs" revision="fourteen" />
+  <project path="frameworks/base" name="RjTangpos/android_frameworks_base" remote="github" groups="pdk-cw-fs,pdk-fs" revision="fourteen" />
   <project path="frameworks/libs/systemui" name="RisingTechOSS/android_frameworks_libs_systemui" remote="github" groups="pdk-cw-fs,pdk-fs" revision="fourteen" />
   <project path="frameworks/native" name="RisingTechOSS/android_frameworks_native" remote="github" groups="pdk" revision="fourteen" />
 
@@ -84,8 +84,8 @@
 
   <!-- AOSP Packages  -->
   <project path="packages/apps/Launcher3" name="RisingTechOSS/android_packages_apps_Launcher3" remote="github" revision="fourteen" />
-  <project path="packages/apps/Settings" name="RisingTechOSS/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="fourteen" />
-  <project path="packages/apps/Personalizations" name="RisingTechOSS/android_packages_apps_Personalizations" groups="pdk-fs" remote="github" revision="fourteen" />
+  <project path="packages/apps/Settings" name="RjTangpos/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="fourteen" />
+  <project path="packages/apps/Personalizations" name="RjTangpos/android_packages_apps_Personalizations" groups="pdk-fs" remote="github" revision="fourteen" />
   <project path="packages/modules/Permission" name="RisingTechOSS/android_packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="github" revision="fourteen" />
 
   <!-- System  -->
