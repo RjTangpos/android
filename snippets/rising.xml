@@ -98,7 +98,6 @@
 
    <!-- Vendor  -->
   <project path="vendor/addons" name="RisingTechOSS/android_vendor_addons" groups="pdk-fs" remote="github" revision="fourteen" />
-  <project path="vendor/gms" name="minaripenguin/android_vendor_gms" groups="pdk-fs" remote="gitlab" revision="fourteen" />
   <project path="vendor/google/interfaces" name="RisingTechOSS/android_vendor_google_interfaces" groups="pdk-fs" remote="github" revision="fourteen" />
   <project path="vendor/pixel-framework" name="RisingTechOSS/vendor_pixel-framework" remote="github" revision="fourteen" />
   <project path="vendor/rising" name="RisingTechOSS/android_vendor_rising" groups="pdk-fs" remote="github" revision="fourteen" />
